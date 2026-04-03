@@ -8,8 +8,6 @@ A high-performance, responsive Personal Finance Dashboard built with **React 18*
 
 ---
 
-## 🚀 Live Demo
-[Insert your Vercel/Netlify Link Here]
 
 ## 🛠️ Core Tech Stack
 - **Frontend:** React.js (Vite)
