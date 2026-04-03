@@ -49,4 +49,4 @@ Implemented a dynamic UI that adapts based on the selected user role:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/finance-pulse-dashboard.git](https://github.com/your-username/finance-pulse-dashboard.git)
+   git clone [https://github.com/your-username/finance-pulse-dashboard.git](https://github.com/Vaishnavi-Kharwade16/finance-pulse-dashboard.git)
