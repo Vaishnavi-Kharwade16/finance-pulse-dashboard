@@ -2,7 +2,7 @@
 # 🏦 Finance Pulse: Modern Analytics Dashboard
 
 > **Live Demo:** [(https://finance-pulse-dashboard.netlify.app/)](https://finance-pulse-dashboard.netlify.app)
-# 🏦 Finance Pulse: Modern Analytics Dashboard
+
 
 A high-performance, responsive Personal Finance Dashboard built with **React 18**, **Vite**, and **Tailwind CSS**. This project was developed as a technical assessment to demonstrate proficiency in state management, data visualization, and Role-Based Access Control (RBAC).
 
